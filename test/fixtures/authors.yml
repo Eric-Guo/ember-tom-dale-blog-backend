@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: d2h
+
+two:
+  name: Eric
+
+three:
+  name: C.L.I. Ember
